@@ -2,7 +2,9 @@
 # 🎨 Ali Shayan
 **Design | Motion | Brand Strategy**  
 _Creating visuals that move, inspire, and sell_  
-![Hero GIF]([https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/hero.gif](https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY4ODUxMDgsIm5iZiI6MTc2Njg4NDgwOCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI4VDAxMjAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1NDg0OTNiNzQzNmQyZTdhYTg3NjU4MzA2NGIwMjBjOTIyMzUwZDBlNzY0MTRkNDRiMGVjMThmNTFjNWMyNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WYg9cjvYdZ4wFUyxLlNE3U9tcY4w3mTkrrzc2mX7p9Q))
+
+![Hero GIF](https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif)
+
 
 ---
 
