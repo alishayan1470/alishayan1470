@@ -1,89 +1,57 @@
-<!-- ───────────────────────── HERO ───────────────────────── -->
-
-<h1 align="center">Ali Shayan</h1>
-<h3 align="center">Creative Designer • Brand Visual Strategist • Motion & Video Specialist</h3>
-
-<p align="center">
-Designing brands, visuals & motion that turn attention into impact.
-</p>
-
-<p align="center">
-Precision • Aesthetics • Performance
-</p>
+<!-- HERO SECTION -->
+# 🎨 Ali Shayan
+**Design | Motion | Brand Strategy**  
+_Creating visuals that move, inspire, and sell_  
+![Hero GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/hero.gif)
 
 ---
 
-<!-- ───────────────────────── WHO I AM ───────────────────────── -->
-
-### 👋 Who I Am
-Creative professional crafting premium visual experiences for brands and digital products.
-
----
-
-<!-- ───────────────────────── WHAT I DO ───────────────────────── -->
-
-### 🎯 What I Do
-**Graphic Design • Branding • Video Editing • Motion Graphics**
-
-Transforming ideas into visuals that **engage, convert, and elevate brand presence**.
+## 👋 Who I Am
+Designer & motion creative based in Karachi, Pakistan.  
+Turning ideas into premium visual experiences.
 
 ---
 
-<!-- ───────────────────────── TOOLS ───────────────────────── -->
-
-### 🛠 My Creative Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
-</p>
-
-**Adobe Ecosystem Specialist**  
-Photoshop • Illustrator • Premiere Pro • After Effects
+## 🛠️ What I Do
+**Design:** Graphic Design • Motion Graphics • Branding  
+**Video:** Video Editing • Reels & Campaign Content  
+**Creative Strategy:** Visual storytelling • Concept Development
 
 ---
 
-<!-- ───────────────────────── SPECIALTIES ───────────────────────── -->
-
-### ✨ Creative Vibe & Strengths
-✔ Brand-first visual systems  
-✔ Clean, modern design language  
-✔ Cinematic video storytelling  
-✔ High-impact motion graphics  
-✔ Campaign-ready marketing assets  
-✔ Fast, reliable, detail-driven execution  
+## ⚡ My Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
 
-<!-- ───────────────────────── PORTFOLIO ───────────────────────── -->
-
-### 🧬 Selected Work
-**Green Congo** — Social media systems & motion content  
-**Herman Legal Group** — Professional video & legal visuals  
-**Momo** — Product campaigns & promotional media  
-**Max Congo** — Marketing videos & creative assets  
-
-🎬 *Portfolio:*  
-https://drive.google.com/drive/folders/1WtJD4FgsnDuHzvCy4XhdA-oI3NI63tgS
+## 🎨 Creative Vibe & Specialties
+- Cinematic motion graphics  
+- Bold branding & visual storytelling  
+- Social media campaigns & dynamic content  
+- Cross-platform design consistency  
+![Divider GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/divider.gif)
 
 ---
 
-<!-- ───────────────────────── CAREER ───────────────────────── -->
+## 🚀 Selected Work
+**Green Congo** – Social media visuals & motion campaigns  
+**Herman Legal Group** – Professional legal branding & media  
+**Momo** – Product animations, reels & campaigns  
+**Max Congo** – Marketing videos & dynamic thumbnails  
 
-### 🚀 Career Direction
-Building globally competitive brands through design, motion & multimedia.  
-Future-focused creative leader.
-
----
-
-<!-- ───────────────────────── CONTACT ───────────────────────── -->
-
-### 🤝 Let’s Collaborate
-📧 **Email:** alishayan1470@gmail.com  
-📞 **Phone:** +92 317 2150249  
-
-💼 Open to: Freelance • Remote • Full-time • Creative Partnerships
+[Full Portfolio →](https://drive.google.com/drive/folders/1WtJD4FgsnDuHzvCy4XhdA-oI3NI63tgS)
 
 ---
 
-<p align="center">
-Let’s build something remarkable.
-</p>
+## 🎯 Career Direction
+Focused on high-impact visual storytelling, cinematic motion, and brand experiences that scale.
+
+---
+
+## 💬 Let’s Collaborate
+📧 alishayan1470@gmail.com  
+📍 Karachi, Pakistan  
+
