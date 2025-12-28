@@ -3,8 +3,7 @@
 **Design | Motion | Brand Strategy**  
 _Creating visuals that move, inspire, and sell_  
 
-![Hero GIF]([https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif))
-
+![Hero GIF](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
 
 ---
 
